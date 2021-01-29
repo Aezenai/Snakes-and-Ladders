@@ -5,3 +5,7 @@ This is based on the game board which you can find in a separate file called 'bo
 
 # What I learned
 Improved upon my ability to utilise dictionaries
+
+# BOARD
+
+![](Board.png)
